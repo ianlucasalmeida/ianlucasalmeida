@@ -46,6 +46,7 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![PYTHON](https://img.shields.io/badge/python-%23316192.svg?style=for-the-badge&logo=python&logoColor=white)
+![SELENIUM](https://img.shields.io/badge/selenium-#42b029.svg?style=for-the-badge&logo=selenium&logoColor=white)
 
 
 <!-- (Você pode adicionar novas tecnologias insira ![Nome da Tecnologia](https://img.shields.io/badge/-[Nome da tecnologia]-[Cor do fundo]?style=flat-square&logo=[Nome da tecnologia])) -->
