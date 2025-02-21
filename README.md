@@ -55,7 +55,7 @@
 ### Cursos realizados 🤓
 ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Huawei HCIA](https://img.shields.io/badge/Huawei-FF0000?style=for-the-badge&logo=huawei&logoColor=white)
-![Red Hat DO180, DO188, RH104](https://img.shields.io/badge/redhat-ff0000.svg?style=for-the-badge&logo=redhat&logoColor=white).
+![Red Hat DO180, DO188, RH104](https://img.shields.io/badge/redhat-ff0000.svg?style=for-the-badge&logo=redhat&logoColor=white)
 
 <!-- (Aqui você pode adicionar cursos que você já fez) -->
 <!--
