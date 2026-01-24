@@ -28,6 +28,7 @@ Tenho interesse em tecnologia aplicada à gestão, automação de processos, an�
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge\&logo=figma\&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-536DFE?style=for-the-badge\&logo=flutter\&logoColor=white)
 
 ## Eu estou estudando
 
@@ -37,6 +38,7 @@ Tenho interesse em tecnologia aplicada à gestão, automação de processos, an�
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge\&logo=openjdk\&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge\&logo=next.js\&logoColor=white)
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge\&logo=salesforce\&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-536DFE?style=for-the-badge\&logo=flutter\&logoColor=white)
 
 ## Cursos e certificações
 
