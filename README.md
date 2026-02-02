@@ -39,6 +39,10 @@ Tenho interesse em tecnologia aplicada à gestão, automação de processos, an�
 ![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge\&logo=next.js\&logoColor=white)
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge\&logo=salesforce\&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-536DFE?style=for-the-badge\&logo=flutter\&logoColor=white)
+![Python](https://img.shields.io/badge/python-%23316192.svg?style=for-the-badge\&logo=python\&logoColor=white)
+![R](https://img.shields.io/badge/R-%2320232a.svg?style=for-the-badge\&logo=r\&logoColor=white)
+![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge\&logo=sap\&logoColor=white)
+
 
 ## Cursos e certificações
 
